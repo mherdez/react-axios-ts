@@ -1,0 +1,6 @@
+@import 'bootstrap';
+
+.usuarioFoto {
+  width: 50px;
+  border-radius: 50%;
+}
